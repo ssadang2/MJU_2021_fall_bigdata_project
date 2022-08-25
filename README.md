@@ -1,4 +1,9 @@
-# MJU-2021-FALL-project-
-MJU fall semester big data programming project source code
-2021년 2학기 빅 데이터 프로그래밍 과제 source code
-60160223
+# MJU_2021_fall_bigdata_project
+
+#### 앱 기능 및 목표
+> web crawler를 이용하여 영화 데이터를 모으고, 이 데이터를 전처리하고 가공하여 classification 알고리즘으로 학습시켜 영화의 작품성을 분류하는 모델을 만들고 자 한다.
+
+#### Features 설명
+> 모델 학습에는 genre, running_time, screening_rat, 감독의 연출작 개수, 주인 공의 출연작 개수 총 5개의 Features가 사용됨.
+
+* 자세한 구조 및 코드는 첨부한 Pdf를 참조 바람
