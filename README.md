@@ -7,4 +7,4 @@
 #### Features 설명
 > 모델 학습에는 genre, running_time, screening_rat, 감독의 연출작 개수, 주인 공의 출연작 개수 총 5개의 Features가 사용됨.
 
-* 자세한 구조 및 코드는 첨부한 Pdf를 참조 바람
+* 자세한 구조 및 코드는 첨부한 보고서 pdf를 참조 바람
